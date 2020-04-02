@@ -1,0 +1,100 @@
+body{
+  font: 20px Arial, sans-serif;
+  background-color: #3498DB;
+}
+.nav-link{
+  margin-left: 50px;
+}
+.navbar-brand{
+  margin-left: 30px;
+  margin-right: 150px;
+}
+.navbar-mail{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.navbar-remed{
+  margin-left: 200px;
+}
+.navbar-shop{
+  margin-left: 20px;
+  margin-right: 30px;
+
+}
+.margin-sobre-nos{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+}
+.navbar{
+    background-color: #AED6F1;
+}
+.margin-doc-calls{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin-top: 15px;
+}
+.bibliografia{
+  font-size: smaller;
+  text-align: end;
+}
+.title-low-prices{
+  font-style: italic;
+  color: #1A5276;
+}
+.prices{
+    margin-top: 20px;
+    text-decoration-line: line-through;
+    color: #979A9A;
+}
+.low-prices{
+  background-color: #1A5276;
+  color: white;
+}
+.mega-discount{
+  background-color: #AED6F1;  
+  color: #1A5276;
+        border: #6E2C00;
+}
+.sobre-nos{
+  background-color: #AED6F1;
+  color: #1A5276;
+  margin-top: 15x;
+}
+.title-vest{
+  color: #1A5276;
+  margin-top: 15x;
+}
+.eletro-eletronicos{
+  background-color: #AED6F1;
+    color: #1A5276;
+    margin-top: 15px;
+    padding-top: 10px;
+}
+.margin-img{
+    margin-top: 15px;
+    font-size: 30px;
+}
+.ferramentas{
+  background-color: #AED6F1;
+    color: #6E2C00;
+}
+.servicos{
+  background-color: #AED6F1;
+  color: #6E2C00;
+}
+.facaseucartao{
+  background-color: #AED6F1;
+  color: #1A5276;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.bg-footer{
+  background-color: #D0D3D4 ;
+  color: white;
+  margin-top: 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
